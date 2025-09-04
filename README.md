@@ -12,7 +12,6 @@
 - Linguagens: **JavaScript**
 - Frontend: **React, HTML, CSS**
 
----
 
 ---
 
